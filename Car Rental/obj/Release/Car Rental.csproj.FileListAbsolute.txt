@@ -1,0 +1,35 @@
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\ApplicationInsights.config
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\csc.exe
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\System.Collections.Immutable.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\System.Reflection.Metadata.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\vbc.exe
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\VBCSCompiler.exe
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\roslyn\VBCSCompiler.exe.config
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Car Rental.dll.config
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Car Rental.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Car Rental.pdb
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.AI.Agent.Intercept.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.AI.DependencyCollector.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.AI.Web.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.AI.WindowsServer.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.ApplicationInsights.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.AI.DependencyCollector.xml
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.AI.Web.xml
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.AI.WindowsServer.xml
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.ApplicationInsights.xml
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\obj\Release\Car Rental.dll
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\obj\Release\Car Rental.pdb
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\obj\Release\Car Rental.csprojAssemblyReference.cache
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\obj\Release\Car Rental.csproj.CoreCompileInputs.cache
+D:\โปรเจคDB\Car Rental\Car Rental\Car Rental\obj\Release\Car Rental.csproj.CopyComplete

@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Car_Rental.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            height: 189px;
+            width: 312px;
+        }
+        .auto-style2 {
+            width: 301px;
+        }
+        .auto-style3 {
+            width: 379px;
+        }
+        .auto-style4 {
+            width: 846px;
+        }
+        .auto-style5 {
+            width: 374px;
+        }
+    </style>
+    </head>
+<body>
+    <form id="form1" runat="server">
+    <div style="background-color: #333333">
+        <div style="background-color: #000000"> 
+            
+            <table style="width:100%;">
+                <tr>
+                    <td class="auto-style2"><img class="auto-style1" src="pic/carbest.jpg" /></td>
+                    
+                    <td>&nbsp;</td>
+                    <td class="auto-style3">&nbsp;</td>
+                
+                </tr>
+            </table>
+            
+        </div>
+        <table style="width:100%;">
+            <tr>
+                <td class="auto-style4">&nbsp;</td>
+                <td class="auto-style5">&nbsp;</td>
+                <td>
+                    <asp:LinkButton ID="LinkButton1" runat="server" ForeColor="White" OnClick="LinkButton1_Click1">ออกจากระบบ</asp:LinkButton>
+                </td>
+            </tr>
+            </table>
+        <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

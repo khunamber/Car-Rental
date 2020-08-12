@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="carforrental.ProjectDB.dbo-Web.config Connection String" description="carforrental.ProjectDB.dbo Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:carforrental.database.windows.net,1433;Initial Catalog=ProjectDB;Persist Security Info=False;User ID=Thanwa;Password=Ameen20226;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\โปรเจคDB\\Car\ Rental\\Car\ Rental\\Car\ Rental\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='carforrental.ProjectDB.dbo']/@connectionString" />
+  </parameter>
+  <parameter name="ProjectDBConnectionString-Web.config Connection String" description="ProjectDBConnectionString Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:carforrental.database.windows.net,1433;Initial Catalog=ProjectDB;Persist Security Info=False;User ID=Thanwa;Password=Ameen20226;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\โปรเจคDB\\Car\ Rental\\Car\ Rental\\Car\ Rental\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ProjectDBConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

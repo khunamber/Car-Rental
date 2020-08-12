@@ -1,0 +1,30 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site2.Master" AutoEventWireup="true" CodeBehind="login_admin.aspx.cs" Inherits="Car_Rental.login_admin" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <style type="text/css">
+        .auto-style6 {
+            width: 985px;
+        }
+        .auto-style7 {
+            width: 247px;
+        }
+        .auto-style8 {
+            width: 100%;
+            height: 194px;
+        }
+    </style>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <center>
+    <br />
+    <br /><div><img class="auto-style21" src="pic/adlogin.jpg" /></div>
+    <br />Username:
+        <asp:TextBox ID="txtUser" runat="server" Width="200px" BackColor="White"></asp:TextBox>
+        <br />
+        <br />
+        Password:&nbsp; <asp:TextBox ID="txtPass" runat="server" Width="200px" BackColor="White" TextMode="Password"></asp:TextBox>
+        <br />
+        <br />
+        <asp:Button ID="btnLogin" runat="server" BackColor="Black" OnClick="btnLogin_Click1" Text="ลงชื่อเข้าใช้" ForeColor="White" BorderStyle="Ridge"/>
+&nbsp;&nbsp;
+    <asp:Button ID="back" runat="server" BackColor="Black" OnClick="back_Click1" Text="กลับสู่หน้าหลัก" ForeColor="White" BorderStyle="Ridge" /></center>
+</asp:Content>

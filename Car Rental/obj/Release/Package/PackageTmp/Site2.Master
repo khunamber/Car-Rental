@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Car_Rental.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 1500px;
+            height: 410px;
+        }
+        .auto-style2 {
+            width: 100%;
+            margin-left: 0px;
+            margin-bottom: 0px;
+        }
+        .auto-style3 {
+            width: 1200px;
+            height: 70px;
+        }
+        .auto-style5 {
+            width: 380px;
+            height: 70px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div>
+            <img class="auto-style1" src="pic/h.jpg" /><table align="center" class="auto-style2">
+                <tr>
+                    <td align="center" class="auto-style5" style="font-size: large; background-color: #669999;">
+                        <br />
+                        ระบบเช่ารถออนไลน์<br style="background-color: #669999; color: #000099" />
+                        <br />
+                    </td>
+                    <td class="auto-style3" style="background-color: #66CCFF"></td>
+                </tr>
+                </table>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
